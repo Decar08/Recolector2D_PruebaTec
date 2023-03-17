@@ -8,7 +8,7 @@ Evita a tus enemigos o eliminalos con tu arma.
  
  Movimientos:
  
- A = ir a la izaquierda.
+ A = ir a la izquierda.
  
  D = ir a la dereha.
  
