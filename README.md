@@ -9,7 +9,9 @@ Evita a tus enemigos o eliminalos con tu arma.
  Movimientos:
  
  A = ir a la izaquierda.
+ 
  D = ir a la dereha.
+ 
  W = saltar
  
  Tecla espacio = disparar.
